@@ -10,10 +10,10 @@ import yfinance as yf
 import threading
 
 # Average cost PER STOCK that you have bought.
-PRICE_AT_BUY = 128.078516
+PRICE_AT_BUY = 165.55967
 
 # TOTAL money spent on the stock.
-COST = 159.00
+COST = 515.65
 
 # The stock itself.
 STOCK = "GME"
